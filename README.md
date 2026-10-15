@@ -161,3 +161,4 @@ Smart Highway 360° supports 3 distinct user roles with 1-click role switching i
 - **Privacy First**: Driver fatigue video frames are processed purely client-side within browser memory and are **never** stored or uploaded.
 - **Due Process**: Speed radar observations provide corridor calming analytics; statutory citations require calibrated legal gantry hardware.
 "# kiran" 
+"# kiran" 
